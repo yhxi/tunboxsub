@@ -1,6 +1,6 @@
-# TunBox Sub
+# TunboxSub
 
-TunBox Sub 是由 `yhxi` 维护的 HarmonyOS NEXT 二次开发项目，基于 [xiaoli8571/TunBox v0.8.9](https://github.com/xiaoli8571/TunBox/tree/fa6c9eb9a568198872f71a87bb2db684f883aa69)。感谢上游项目及其贡献者。
+TunboxSub 是由 `yhxi` 维护的 HarmonyOS NEXT 二次开发项目，基于 [xiaoli8571/TunBox v0.8.9](https://github.com/xiaoli8571/TunBox/tree/fa6c9eb9a568198872f71a87bb2db684f883aa69)。感谢上游项目及其贡献者。
 
 本项目目前聚焦桌面服务卡片与 VPN 通知栏的状态同步。测试版 HAP 见 [GitHub Releases](https://github.com/yhxi/tunboxsub/releases)。
 
